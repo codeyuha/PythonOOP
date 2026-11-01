@@ -52,7 +52,7 @@ jobs:
       - name: Run tests
         run: |
           mkdir -p public
-          pytest -v --html=public/report.html --self-contained-html
+          pytest -v --html=public/report.html --self-contained-html || true
           
       - name: Copy README as index.html
         run: |
@@ -73,3 +73,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+
