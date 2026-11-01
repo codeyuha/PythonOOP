@@ -3,7 +3,7 @@
 **I help you learn Object-Oriented Programming in Python and pass your exam with confidence.**  
 Lots of practical assignments. Clear explanations. Real code you write yourself.
 
-👉 **[CHECK YOUR RESULTS(Python Report)](./report.html)**
+👉 **[CHECK YOUR RESULTS(Python Report)](https://codeyuha.github.io/PythonOOP/report.html)**
 ---
 
 ## Full Course Topics
