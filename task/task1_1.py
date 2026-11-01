@@ -46,7 +46,7 @@ class StringLengthChecker:
         """Return the length of the string."""
         if not isinstance(value, str):
             raise TypeError(f"Expected str, got {type(value).__name__}")
-        return len(value)
+        # return len(value)
 
 
 if __name__ == "__main__":
