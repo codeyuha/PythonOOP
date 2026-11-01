@@ -77,7 +77,7 @@ Lots of practical assignments. Clear explanations. Real code you write yourself.
 | Discord | [message link](https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F1412816558392086611) |
 | Facebook | [message link](https://www.facebook.com/profile.php?id=100081888986317) |
 | Instagram | [message link](https://www.instagram.com/self_code_practise/) |
-
+  
 **Write to me with your exam date and current level — I will reply within a few hours.**
 
 ---
